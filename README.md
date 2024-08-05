@@ -22,8 +22,8 @@
 - HTML
 - CSS
 - JavaScript
-- Sass
-- ScrollReveal.js
+- Sass [📄](https://sass-lang.com/documentation) 
+- ScrollReveal.js [📄](https://scrollrevealjs.org/guide/hello-world.html) 
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
